@@ -10,5 +10,8 @@ A simple **To-Do List** web application built using **HTML**, **CSS**, and **Jav
 - 📱 Responsive design
 
 
-## 📂 Project Structure
 
+## 🚀 How to Run the App
+1. **Download** or **clone** this project:
+   ```bash
+   git clone https://github.com/your-username/to-do-app.git
